@@ -6,6 +6,6 @@ The methodology begins with thorough data pre-processing and analysis, ensuring 
 
 Using R's geospatial visualization libraries, an interactive map is developed. The map showcases city-bike stations with intuitive color gradients highlighting busy periods, allowing easy identification of peak usage times. A visually compelling one-slider presentation accompanies the map, emphasizing key insights and urging the avoidance of heavily used times for inspections.
 
-The map visualization is aesthetically pleasing, easy to interpret, and includes clear labeling and intuitive design. This ensures easy comprehension by the client and inspection workers. Additionally, a printable version of the map is generated, enabling workers to carry it during inspections.
+The map visualization is aesthetically pleasing, easy to interpret, and includes clear labeling and intuitive design. This ensures easy comprehension by the client and inspection workers. Additionally, visuzalization is captivated in a way that a printable version of the map can be generated, enabling workers to carry it during inspections.
 
-The project's high-quality, well-documented code/scripts empower the client to use and modify the analysis in the future. Overall, CityBikeGeoViz advances transport modeling and smart mobility through data-driven decision-making, promoting efficient city-bike inspection rounds and enhancing the overall biking experience in Helsinki.
+The project's high-quality, well-documented code/scripts empower the client to use and modify the analysis in the future. Overall, the project advances transport modeling and smart mobility through data-driven decision-making, promoting efficient city-bike inspection rounds and enhancing the overall biking experience in Helsinki.
