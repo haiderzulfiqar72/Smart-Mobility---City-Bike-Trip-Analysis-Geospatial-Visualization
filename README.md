@@ -1,4 +1,4 @@
-# Smart-Mobility---City-Bike-Trip-Analysis-Geospatial-Visualization
+# Optimizing City-Bike Inspection Rounds: Geospatial Data Analysis and Visualization
 
 This is a comprehensive spatial data analysis and visualization project aimed at enhancing smart mobility in Helsinki. The project's objective is to optimize city-bike inspection rounds by analyzing open data on city-bike trips and identifying peak usage times for each station.
 
