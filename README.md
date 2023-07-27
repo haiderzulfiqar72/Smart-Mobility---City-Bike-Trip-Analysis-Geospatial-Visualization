@@ -2,7 +2,7 @@
 
 This is a comprehensive spatial data analysis and visualization project aimed at enhancing smart mobility in Helsinki. The project's objective is to optimize city-bike inspection rounds by analyzing open data on city-bike trips and identifying peak usage times for each station.
 
-The methodology begins with thorough data processing and analysis, ensuring the cleanliness and consistency of the open data. The exploratory data analysis (EDA) uncovers usage patterns, and key metrics are calculated to quantify usage intensity throughout the day. Seasonality and bimodality trends are investigated to improve the accuracy of the visualization.
+The methodology begins with thorough data pre-processing and analysis, ensuring the cleanliness and consistency of the open data. The exploratory data analysis (EDA) uncovers usage patterns, and key metrics are calculated to quantify usage intensity throughout the day. Seasonality and bimodality trends are investigated to improve the accuracy of the visualization.
 
 Using R's geospatial visualization libraries, an interactive map is developed. The map showcases city-bike stations with intuitive color gradients highlighting busy periods, allowing easy identification of peak usage times. A visually compelling one-slider presentation accompanies the map, emphasizing key insights and urging the avoidance of heavily used times for inspections.
 
